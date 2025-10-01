@@ -1,3 +1,3 @@
 # username|password|hardware_ids|max_devices|expiry_date|max_accounts
-tuquangnam|admin|a1b2c3d4,b2c3d4e5|2|2025-12-31|1000
+tuquangnam|admin|827ca36f0176,N/A|2|2025-12-31|1000
 nguoidung2|Abc456@@|c3d4e5f6|1|2024-11-30|500
