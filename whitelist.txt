@@ -1,3 +1,3 @@
 # username|password|hardware_ids|max_devices|expiry_date|max_accounts
 tuquangnam|admin|827ca36f0176,N/A|2|2025-12-31|1000
-admin|admin123@|827ca36f0176|1|2025-11-30|50
+taduc123|taduc123@|9acc8fab118d|1|2026-11-30|500
